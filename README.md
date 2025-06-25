@@ -4,9 +4,9 @@ I am doing MSc in Computer science (Machine Intelligence) in Kerala University o
 I love to join different community and competition that involve creating something for the society!
 
 Skills:
-Web Development | Machine Learning
+Artificial Intelligence | Machine Learning | GenAI | NLP | Computer Vision | Web Development 
 
 - 🔭 I’m currently working on upskilling myself.
 - 🌱 I’m currently learning AI, ML and DL.
-- 📫 How to reach me: dawnnjezhu0007@gmail.com
+- 📫 How to reach me: dawnjojustine99@gmail.com
 
